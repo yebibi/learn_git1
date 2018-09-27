@@ -7,3 +7,4 @@
 2. .gitignore声明哪些文件不上传
     node 类型
 3. git clone 
+4. staged  暂存区
